@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5fd0675bfa244c0b10cadec8"
+  },
+  "username": "Cindy",
+  "password": "202cb962ac59075b964b07152d234b70",
+  "phone": "12324233434",
+  "email": "cindy@163.com",
+  "role_id": "5e171d55d59eb648d4ed66a8",
+  "create_time": 1555062212734,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd06791fa244c0b10cadec9"
+  },
+  "username": "Jim",
+  "password": "202cb962ac59075b964b07152d234b70",
+  "phone": "72612189",
+  "email": "feedback@outlook.com",
+  "role_id": "5e0d7292bd72914ee8e714d4",
+  "create_time": 1552062212734,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd067affa244c0b10cadeca"
+  },
+  "username": "Kira",
+  "password": "202cb962ac59075b964b07152d234b70",
+  "phone": "224249",
+  "email": "wait@outlook.com",
+  "role_id": "5e188bb874c89321209fedda",
+  "create_time": 1252062212734,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd06aaf97daee1b6c09b1cd"
+  },
+  "username": "admin",
+  "password": "21232f297a57a5a743894a0e4a801fc3",
+  "phone": "224249",
+  "email": "admin@outlook.com",
+  "role_id": "5e175a134bce5e36d48fb4db",
+  "create_time": 1212062212734,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd9c76d9bfcc59fcbfa6a0"
+  },
+  "username": "Manager",
+  "password": "1d0258c2440a8d19e716292b231e3190",
+  "phone": "110119120",
+  "email": "manager@outlook.com",
+  "role_id": "5e175a134bce5e36d48fb4db",
+  "create_time": 1624087670467,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd9de0d9bfcc59fcbfa6a1"
+  },
+  "username": "Jack",
+  "password": "4ff9fc6e4e5d5f590c4f2134a8cc96d1",
+  "phone": "1234567",
+  "email": "jack@outlook.com",
+  "role_id": "5e188bb874c89321209fedda",
+  "create_time": 1624088032299,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd9edfd9bfcc59fcbfa6a2"
+  },
+  "username": "lily",
+  "password": "89f288757f4d0693c99b007855fc075e",
+  "phone": "",
+  "email": "",
+  "role_id": "5fcdca798e518d46807aa484",
+  "create_time": 1624088287944,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cdb7ee1868170a2ca20120"
+  },
+  "username": "rose",
+  "password": "fcdc7b4207660a1372d0cd5491ad856e",
+  "phone": "123321",
+  "email": "rose@gmail.com",
+  "create_time": 1624094702384,
+  "__v": 0,
+  "role_id": "5fcdca798e518d46807aa484"
+}]

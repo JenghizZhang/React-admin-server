@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "5e12b97de31bb727e4b0e349"
+  },
+  "status": 1,
+  "imgs": [
+    "image-1559402396338.jpg",
+    "image-1623998372159.png"
+  ],
+  "name": "联想ThinkPad 翼4809",
+  "desc": "年度重量级新品，X390、T490全新登场 更加轻薄机身设计9",
+  "price": 6300,
+  "pCategoryId": "60c58fca6923c43824d2ce15",
+  "categoryId": "60c58ff46923c43824d2ce16",
+  "detail": "<p><span style=\"color: rgb(228,57,60);background-color: rgb(255,255,255);font-size: 12px;\">想你所需，超你所想！精致外观，轻薄便携带光驱，内置正版office杜绝盗版死机，全国联保两年！</span></p>\n<p><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\">联想（Lenovo）扬天V110 15.6英寸家用轻薄便携商务办公手提笔记本电脑 定制【E2-9010/4G/128G固态】 2G独显 内置</span></p>\n<p></p>\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e12b9d1e31bb727e4b0e34a"
+  },
+  "status": 2,
+  "imgs": [
+    "image-1559402396338.jpg",
+    "image-1559402450480.jpg"
+  ],
+  "name": "华硕(ASUS) 飞行堡垒",
+  "desc": "15.6英寸窄边框游戏笔记本电脑(i7-8750H 8G 256GSSD+1T GTX1050Ti 4G IPS)",
+  "price": 6799,
+  "pCategoryId": "60c58fca6923c43824d2ce15",
+  "categoryId": "60c590076923c43824d2ce17",
+  "detail": "<p><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\">华硕(ASUS) 飞行堡垒6 15.6英寸窄边框游戏笔记本电脑(i7-8750H 8G 256GSSD+1T GTX1050Ti 4G IPS)火陨红黑</span>&nbsp;</p>\n<p><span style=\"color: rgb(228,57,60);background-color: rgb(255,255,255);font-size: 12px;\">【4.6-4.7号华硕集体放价，大牌够品质！】1T+256G高速存储组合！超窄边框视野无阻，强劲散热一键启动！</span>&nbsp;</p>\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e145c55d9ba8f39dc5f879f"
+  },
+  "status": 1,
+  "imgs": [
+    "image-1559402396338.jpg",
+    "image-1623936318774.png",
+    "image-1623936323342.jpg"
+  ],
+  "name": "联想ThinkPad 翼4809",
+  "desc": "年度重量级新品，X390、T490全新登场 更加轻薄机身设计9",
+  "price": 6599,
+  "pCategoryId": "60c58fca6923c43824d2ce15",
+  "categoryId": "60c58ff46923c43824d2ce16",
+  "__v": "0",
+  "detail": "<p></p>\n"
+},{
+  "_id": {
+    "$oid": "5fc74fe10dd9b10798413163"
+  },
+  "status": 1,
+  "imgs": [
+    "image-1559402436395.jpg"
+  ],
+  "name": "你不知道的JS（上卷）",
+  "desc": "图灵程序设计丛书： [You Don't Know JS:Scope & Closures] JavaScript开发经典入门图书 打通JavaScript的任督二脉",
+  "price": 35,
+  "pCategoryId": "0",
+  "categoryId": "60c597e76923c43824d2ce18",
+  "detail": "<p style=\"text-align:start;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\">图灵程序设计丛书：你不知道的JavaScript（上卷）</span> <span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\"><strong>[You Don't Know JS:Scope &amp; Closures]</strong></span></p>\n<p style=\"text-align:start;\"><span style=\"color: rgb(227,57,60);background-color: rgb(255,255,255);font-size: 12px;\">JavaScript开发经典入门图书 打通JavaScript的任督二脉 领略语言内部的绝美风光</span>&nbsp;</p>\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb341c8595214fac4e4a3f"
+  },
+  "status": 1,
+  "imgs": [],
+  "categoryId": "60c58ff46923c43824d2ce16",
+  "pCategoryId": "60c58fca6923c43824d2ce15",
+  "name": "test1",
+  "price": 1,
+  "__v": 0,
+  "detail": "<p>aaaaaaaaaa</p>\n<img src=\"http://localhost:5000/upload/image-1623938391107.jpg\" alt=\"img\" style=\"height: auto;width: auto\"/>\n<p></p>\n",
+  "desc": "12332112345678"
+},{
+  "_id": {
+    "$oid": "60cb49f1f506063b247394bd"
+  },
+  "status": 1,
+  "imgs": [
+    "image-1623935614987.png"
+  ],
+  "name": "test2",
+  "desc": "没什么描述",
+  "price": 999,
+  "pCategoryId": "0",
+  "categoryId": "60c35ae53f75d125649d931f",
+  "detail": "<h4><span style=\"color: rgb(44,130,201);\">11111111111</span></h4>\n",
+  "__v": 0
+}]

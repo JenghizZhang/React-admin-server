@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "5e12b8bce31bb727e4b0e348"
+  },
+  "parentId": "0",
+  "name": "家用电器",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6072f88fb06ebf3880fe7516"
+  },
+  "parentId": "0",
+  "name": "汽车",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607534b0d2b4d32e30a365c9"
+  },
+  "parentId": "6072f88fb06ebf3880fe7516",
+  "name": "奔驰",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607534b5d2b4d32e30a365ca"
+  },
+  "parentId": "6072f88fb06ebf3880fe7516",
+  "name": "宝马",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607696e08ad87e286c7df89f"
+  },
+  "parentId": "6072f88fb06ebf3880fe7516",
+  "name": "大众",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e5e710a61c433c15619d"
+  },
+  "parentId": "0",
+  "name": "飞机",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e62c10a61c433c15619e"
+  },
+  "parentId": "0",
+  "name": "火车",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e6ef10a61c433c15619f"
+  },
+  "parentId": "0",
+  "name": "画",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e83410a61c433c1561a1"
+  },
+  "parentId": "5e12b8bce31bb727e4b0e348",
+  "name": "冰箱",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e83d10a61c433c1561a2"
+  },
+  "parentId": "5e12b8bce31bb727e4b0e348",
+  "name": "电视",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076eaaa10a61c433c1561a3"
+  },
+  "parentId": "5e12b8bce31bb727e4b0e348",
+  "name": "洗衣机",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076eae110a61c433c1561a5"
+  },
+  "parentId": "0",
+  "name": "手机",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076eb4810a61c433c1561a6"
+  },
+  "parentId": "0",
+  "name": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076ebd510a61c433c1561a8"
+  },
+  "parentId": "0",
+  "name": "衣服",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076eca510a61c433c1561a9"
+  },
+  "parentId": "6076eae110a61c433c1561a5",
+  "name": "iphone",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b724aa6b44bd3138a9155a"
+  },
+  "parentId": "0",
+  "name": "武器",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b79cdf6b44bd3138a9155b"
+  },
+  "parentId": "5e12b8bce31bb727e4b0e348",
+  "name": "空调",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b79cf56b44bd3138a9155c"
+  },
+  "parentId": "0",
+  "name": "桌子",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b79d846b44bd3138a9155e"
+  },
+  "parentId": "0",
+  "name": "椅子",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b79d976b44bd3138a9155f"
+  },
+  "parentId": "6076e5e710a61c433c15619d",
+  "name": "波音747",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7a8636b44bd3138a91560"
+  },
+  "parentId": "6076e5e710a61c433c15619d",
+  "name": "波音737",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7a8896b44bd3138a91561"
+  },
+  "parentId": "6076e5e710a61c433c15619d",
+  "name": "直升飞机",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7a9096b44bd3138a91562"
+  },
+  "parentId": "6076e5e710a61c433c15619d",
+  "name": "滑翔机",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b7a96a6b44bd3138a91564"
+  },
+  "parentId": "6076e62c10a61c433c15619e",
+  "name": "高铁",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b863bfb9adb02e0c62a8bb"
+  },
+  "parentId": "0",
+  "name": "房子",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b863d1b9adb02e0c62a8bc"
+  },
+  "parentId": "0",
+  "name": "钞票",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b863ebb9adb02e0c62a8bd"
+  },
+  "parentId": "60b863d1b9adb02e0c62a8bc",
+  "name": "人民币",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b8a4beb9adb02e0c62a8be"
+  },
+  "parentId": "5e12b8bce31bb727e4b0e348",
+  "name": "123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c35ae53f75d125649d931f"
+  },
+  "parentId": "0",
+  "name": "国家",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c58fca6923c43824d2ce15"
+  },
+  "parentId": "0",
+  "name": "电脑",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c58ff46923c43824d2ce16"
+  },
+  "parentId": "60c58fca6923c43824d2ce15",
+  "name": "联想牌电脑",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c590076923c43824d2ce17"
+  },
+  "parentId": "60c58fca6923c43824d2ce15",
+  "name": "华硕牌电脑",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c597e76923c43824d2ce18"
+  },
+  "parentId": "0",
+  "name": "书籍",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c97ff769aa2c4b70db6b72"
+  },
+  "parentId": "0",
+  "name": "aaa",
+  "__v": 0
+}]

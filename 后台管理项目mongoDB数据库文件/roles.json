@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "5e0d7292bd72914ee8e714d4"
+  },
+  "name": "经理",
+  "auth_time": 1624108197008,
+  "auth_name": "admin",
+  "create_time": 1554639521749,
+  "menus": [
+    "home",
+    "sub1",
+    "category",
+    "product",
+    "sub2",
+    "charts/bar",
+    "charts/line",
+    "charts/pie"
+  ]
+},{
+  "_id": {
+    "$oid": "5e171d55d59eb648d4ed66a8"
+  },
+  "menus": [
+    "home",
+    "sub1",
+    "category",
+    "product",
+    "user",
+    "role"
+  ],
+  "name": "主管",
+  "create_time": 1578573141547,
+  "auth_name": "Manager",
+  "auth_time": 1624108267270
+},{
+  "_id": {
+    "$oid": "5e175a134bce5e36d48fb4db"
+  },
+  "menus": [
+    "home",
+    "sub1",
+    "category",
+    "product",
+    "user",
+    "role",
+    "sub2",
+    "charts/bar",
+    "charts/line",
+    "charts/pie",
+    "all"
+  ],
+  "name": "管理员",
+  "create_time": 1578588691768,
+  "auth_name": "Manager",
+  "auth_time": 1624108880454
+},{
+  "_id": {
+    "$oid": "5e188bb874c89321209fedda"
+  },
+  "menus": [
+    "home",
+    "category",
+    "charts/bar"
+  ],
+  "name": "员工1",
+  "create_time": 1578666936202,
+  "auth_name": "admin",
+  "auth_time": 1624108169093
+},{
+  "_id": {
+    "$oid": "5fcdca798e518d46807aa484"
+  },
+  "menus": [
+    "product",
+    "home",
+    "charts/pie",
+    "charts/line"
+  ],
+  "name": "员工2",
+  "create_time": 1607322233401,
+  "auth_time": 1624108175817,
+  "auth_name": "admin"
+},{
+  "_id": {
+    "$oid": "60cb8467f53e7c42f0db913f"
+  },
+  "menus": [
+    "home",
+    "charts/pie"
+  ],
+  "name": "test1",
+  "create_time": 1623950439389,
+  "__v": 0,
+  "auth_time": 1624108086005,
+  "auth_name": "admin"
+},{
+  "_id": {
+    "$oid": "60cc185321636439b0046089"
+  },
+  "menus": [
+    "home",
+    "category",
+    "charts/bar",
+    "charts/line"
+  ],
+  "name": "test2",
+  "create_time": 1623988307516,
+  "__v": 0,
+  "auth_name": "admin",
+  "auth_time": 1624108908508
+},{
+  "_id": {
+    "$oid": "60cc20c02634e35ad0bbe3d7"
+  },
+  "menus": [],
+  "name": "test3",
+  "create_time": 1623990464174,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3f632634e35ad0bbe3d8"
+  },
+  "menus": [],
+  "name": "test4",
+  "create_time": 1623998307402,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc738f2634e35ad0bbe3d9"
+  },
+  "menus": [],
+  "name": "test5",
+  "create_time": 1624011663127,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc73972634e35ad0bbe3da"
+  },
+  "menus": [],
+  "name": "test6",
+  "create_time": 1624011671415,
+  "__v": 0
+}]
