@@ -24,7 +24,7 @@ app.use('/', indexRouter)  //
 const fs = require('fs')
 
 // 必须在路由器中间之后声明使用
-/*app.use((req, res) => {
+app.use((req, res) => {
   fs.readFile(__dirname + '/public/index.html', (err, data)=>{
     if(err){
       console.log(err)
@@ -36,7 +36,7 @@ const fs = require('fs')
       res.end(data)
     }
   })
-})*/
+})
 
 // 通过mongoose连接数据库
 mongoose.connect('mongodb://localhost/server_db2', { useNewUrlParser: true, useUnifiedTopology: true })
